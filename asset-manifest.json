@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_Travel.On/static/css/main.df6e97e5.css",
+    "main.js": "/React_Travel.On/static/js/main.e999c343.js",
+    "static/media/Vid_1.mp4": "/React_Travel.On/static/media/Vid_1.4efcbe278d8d061270ed.mp4",
+    "static/media/Vid_2.mp4": "/React_Travel.On/static/media/Vid_2.16036efea704dd0e424f.mp4",
+    "static/media/img3.jpg": "/React_Travel.On/static/media/img3.f85a19ce2f075c4df338.jpg",
+    "static/media/img4.jpg": "/React_Travel.On/static/media/img4.7ca25a50c80f1b4e86a3.jpg",
+    "static/media/img9.jpg": "/React_Travel.On/static/media/img9.f1066721aa4c3f5ce07f.jpg",
+    "static/media/img7.jpg": "/React_Travel.On/static/media/img7.6bb085b57ec78d26aac6.jpg",
+    "static/media/img2.jpg": "/React_Travel.On/static/media/img2.7af29af3080378c54aa4.jpg",
+    "static/media/img1.jpg": "/React_Travel.On/static/media/img1.4a8cceb54037b97c5a79.jpg",
+    "static/media/img5.jpg": "/React_Travel.On/static/media/img5.9a5c0effdbbe62263c57.jpg",
+    "static/media/img6.jpg": "/React_Travel.On/static/media/img6.7633567d95594f45b8b2.jpg",
+    "static/media/img8.jpeg": "/React_Travel.On/static/media/img8.6990b5101af7ecb34fc5.jpeg",
+    "index.html": "/React_Travel.On/index.html",
+    "main.df6e97e5.css.map": "/React_Travel.On/static/css/main.df6e97e5.css.map",
+    "main.e999c343.js.map": "/React_Travel.On/static/js/main.e999c343.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6e97e5.css",
+    "static/js/main.e999c343.js"
+  ]
+}
